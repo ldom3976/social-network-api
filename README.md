@@ -64,7 +64,10 @@ DELETE /api/thoughts/:thoughtID/reactions/:reactionID - Delete reaction <br>
 
 
 ## Visual Representation:
-
+![Alt text](assets/images/Screen%20Shot%202023-04-10%20at%206.53.01%20PM.png)
+![Alt text](assets/images/Screen%20Shot%202023-04-10%20at%206.54.19%20PM.png)
+![Alt text](assets/images/Screen%20Shot%202023-04-10%20at%206.54.59%20PM.png)
+![Alt text](assets/images/Screen%20Shot%202023-04-10%20at%206.55.40%20PM.png)
 
 ## Demo Video
 [Demo](https://drive.google.com/file/d/1pj2PvN6maE19_QxRJ4hgmLa_ZlPXVRqT/view)
