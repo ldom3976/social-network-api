@@ -8,6 +8,7 @@
 - [APIs](#apis)
 - [Visual Representation](#visual-representation)
 - [Demo video](#demo-video)
+- [Code Source](#code-source)
 
 ## Description
 
@@ -71,3 +72,7 @@ DELETE /api/thoughts/:thoughtID/reactions/:reactionID - Delete reaction <br>
 
 ## Demo Video
 [Demo](https://drive.google.com/file/d/1pj2PvN6maE19_QxRJ4hgmLa_ZlPXVRqT/view)
+
+## Code Source
+
+Note: Majority of the code within my project was used from examples from UNC Chapel Hill bootcamp Module 18 NoSQL curriculum.  
